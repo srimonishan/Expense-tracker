@@ -1,0 +1,7 @@
+{
+  "name": "PayTrack AI",
+  "description": "Smart payment tracker that extracts receipt data using Gemini AI and syncs directly to your Google Form.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
